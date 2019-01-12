@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/movie-searcher/index.html/precache-manifest.91a45e23423ee55eb152c91f025bdcd8.js"
+  "/RogiDev/movie-searcher/precache-manifest.094c4291075bc3c1f97e47b850f9ec6d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/movie-searcher/index.html/index.html", {
+workbox.routing.registerNavigationRoute("/RogiDev/movie-searcher/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
