@@ -1,13 +1,13 @@
 {
-  "main.css": "/RogiDev/movie-searcher/static/css/main.186af8c3.chunk.css",
-  "main.js": "/RogiDev/movie-searcher/static/js/main.6d2919c5.chunk.js",
-  "main.js.map": "/RogiDev/movie-searcher/static/js/main.6d2919c5.chunk.js.map",
-  "static/js/1.bcea00ad.chunk.js": "/RogiDev/movie-searcher/static/js/1.bcea00ad.chunk.js",
-  "static/js/1.bcea00ad.chunk.js.map": "/RogiDev/movie-searcher/static/js/1.bcea00ad.chunk.js.map",
-  "runtime~main.js": "/RogiDev/movie-searcher/static/js/runtime~main.9f555ebd.js",
-  "runtime~main.js.map": "/RogiDev/movie-searcher/static/js/runtime~main.9f555ebd.js.map",
-  "static/css/main.186af8c3.chunk.css.map": "/RogiDev/movie-searcher/static/css/main.186af8c3.chunk.css.map",
-  "index.html": "/RogiDev/movie-searcher/index.html",
-  "precache-manifest.094c4291075bc3c1f97e47b850f9ec6d.js": "/RogiDev/movie-searcher/precache-manifest.094c4291075bc3c1f97e47b850f9ec6d.js",
-  "service-worker.js": "/RogiDev/movie-searcher/service-worker.js"
+  "main.css": "/static/css/main.16d8dfe6.chunk.css",
+  "main.js": "/static/js/main.d91aa417.chunk.js",
+  "main.js.map": "/static/js/main.d91aa417.chunk.js.map",
+  "static/js/1.bcea00ad.chunk.js": "/static/js/1.bcea00ad.chunk.js",
+  "static/js/1.bcea00ad.chunk.js.map": "/static/js/1.bcea00ad.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/main.16d8dfe6.chunk.css.map": "/static/css/main.16d8dfe6.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.a6890ffa355fc02810750d3067988cb1.js": "/precache-manifest.a6890ffa355fc02810750d3067988cb1.js",
+  "service-worker.js": "/service-worker.js"
 }
